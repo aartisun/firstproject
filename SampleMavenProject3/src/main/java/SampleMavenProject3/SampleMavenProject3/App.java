@@ -9,7 +9,6 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-     //  com.tcs.samplemavenproject1.App.sayHello1();
        com.tcs.samplemavenproject1.App.main(args);
     }
 }
